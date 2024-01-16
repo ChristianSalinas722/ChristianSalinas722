@@ -1,16 +1,42 @@
-### Hi there 👋 my name is Christian Salinas 
+# 👋 Hello, I'm [Your Name]
 
-<!--
-**ChristianSalinas722/ChristianSalinas722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate | Enthusiast | Developer
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/christian--salinas/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am a Computer Science student at the University of Texas at San Antonio. With a strong background in Software Engineering, I am dedicated to working on innovative technolgies and projects.
+
+## 🚀 Skills
+
+- **Languages:** C, Java, C#, Python
+- **Technologies:** HTML, CSS, Unity Engine, Git
+
+## 🌱 Interests
+
+I enjoy Gaming and Sports, and I'm constantly exploring new technologies to enhance my skills. Currently, I'm fascinated by AI and what the future holds in that space.
+
+## 🛠️ Projects
+
+Here are some of the projects I'm proud of:
+
+- [Project 1](Link to Project 1): Brief description
+- [Project 2](Link to Project 2): Brief description
+
+Feel free to explore my repositories for more!
+
+## 🤝 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/christian--salinas/)
+
+
+## 📈 GitHub Stats
+
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianSalinas722&show_icons=true&hide=contribs,prs)](https://github.com/ChristianSalinas722)
+
+## 🎉 Fun Fact
+
+I'm colorblind and I also was a drummer for 10 years.
+
+Happy coding! 👨‍💻✨
