@@ -21,8 +21,7 @@ I enjoy Gaming and Sports, and I'm constantly exploring new technologies to enha
 
 Here are some of the projects I'm proud of:
 
-- [Project 1](Link to Project 1): Brief description
-- [Project 2](Link to Project 2): Brief description
+- [Dungeni](https://github.com/ChristianSalinas722/Dungeni): This was a small solo video game project i made for my Game Development Course.
 
 Feel free to explore my repositories for more!
 
