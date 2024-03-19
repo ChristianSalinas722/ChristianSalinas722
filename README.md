@@ -3,7 +3,7 @@
 Passionate | Enthusiast | Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/christian--salinas/)
-[![Personal Website](https://img.shields.io/badge/Personal%20%Website-1c2541)](https://www.csalinasdev.design/)
+[![Personal Website](https://img.shields.io/badge/Personal%20%Website-1C2541)](https://www.csalinasdev.design/)
 
 ## About Me
 
