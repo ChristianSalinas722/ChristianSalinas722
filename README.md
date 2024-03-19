@@ -11,8 +11,8 @@ I am a Computer Science student at the University of Texas at San Antonio. With 
 
 ## 🚀 Skills
 
-- **Languages:** C, Java, C#, Python
-- **Technologies:** HTML, CSS, Unity Engine, Git
+- **Languages:** C, Java, C#, Python, Typescript, Javascript
+- **Technologies:** HTML, CSS, Unity Engine, Git, React Native
 
 ## 🌱 Interests
 
